@@ -1,5 +1,8 @@
-#print("Learning how to use comments")
+"""
+print("Learning how to use comments")
 
-#print("second line")
+print("second line")
 
 print("third line")
+
+"""
