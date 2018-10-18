@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83dcdb65-5a5e-4acf-a13e-8134f5e7f93b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83dcdb65-5a5e-4acf-a13e-8134f5e7f93b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,22 +20,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="4" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="298" />
+          <entry key="py" value="435" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="298" />
+          <entry key="Python" value="435" />
         </counts>
       </usages-collector>
     </session>
@@ -45,10 +43,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../excript/app-comerciais-kivy/aulas/aula25.py">
+        <entry file="file://$PROJECT_DIR$/../excript/app-comerciais-kivy/aulas/aula26.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="306">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -72,6 +70,7 @@
         <option value="$PROJECT_DIR$/../excript/app-comerciais-kivy/teste/main.py" />
         <option value="$PROJECT_DIR$/../excript/app-comerciais-kivy/aulas/aula20.py" />
         <option value="$PROJECT_DIR$/../excript/app-comerciais-kivy/aulas/aula25.py" />
+        <option value="$PROJECT_DIR$/../excript/app-comerciais-kivy/aulas/aula26.py" />
       </list>
     </option>
   </component>
@@ -128,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula25">
+  <component name="RunManager" selected="Python.aula26">
     <configuration name="aula20" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciais-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,6 +170,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula26" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../excript/app-comerciais-kivy/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../excript/app-comerciais-kivy/aulas/aula26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="app-comerciais-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,9 +216,11 @@
       <item itemvalue="Python.main" />
       <item itemvalue="Python.aula20" />
       <item itemvalue="Python.aula25" />
+      <item itemvalue="Python.aula26" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula26" />
         <item itemvalue="Python.aula25" />
         <item itemvalue="Python.aula20" />
         <item itemvalue="Python.main" />
@@ -265,7 +287,14 @@
     <entry file="file://$PROJECT_DIR$/../excript/app-comerciais-kivy/aulas/aula25.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <caret line="6" column="35" lean-forward="true" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../excript/app-comerciais-kivy/aulas/aula26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
