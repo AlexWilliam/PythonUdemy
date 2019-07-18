@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3498f2e-02a4-46a5-ad53-a497d78b88c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/kivy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kivy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula30.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula30.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula29.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,6 +28,12 @@
       <list>
         <option value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula28.py" />
         <option value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula29.py" />
+        <option value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula30.py" />
+        <option value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula31.py" />
+        <option value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex1.py" />
+        <option value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex2.py" />
+        <option value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex3.py" />
+        <option value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex4.py" />
       </list>
     </option>
   </component>
@@ -89,7 +85,15 @@
               <item name="dev" type="462c0819:PsiDirectoryNode" />
               <item name="excript" type="462c0819:PsiDirectoryNode" />
               <item name="app-comerciais-kivy" type="462c0819:PsiDirectoryNode" />
-              <item name="aulas" type="462c0819:PsiDirectoryNode" />
+              <item name="exerciciosPraticos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="excript" type="462c0819:PsiDirectoryNode" />
+              <item name="app-comerciais-kivy" type="462c0819:PsiDirectoryNode" />
+              <item name="exerciciosPraticos" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,6 +103,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -114,8 +119,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula29">
-    <configuration name="aula28" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex4">
+    <configuration name="aula31" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula28.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula29" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +149,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula29.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,8 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aula29" />
-        <item itemvalue="Python.aula28" />
+        <item itemvalue="Python.ex4" />
+        <item itemvalue="Python.ex3" />
+        <item itemvalue="Python.ex2" />
+        <item itemvalue="Python.ex1" />
+        <item itemvalue="Python.aula31" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +250,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
@@ -190,7 +260,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -210,8 +280,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula29.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="70" lean-forward="true" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula31.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
         </state>
       </provider>
     </entry>
