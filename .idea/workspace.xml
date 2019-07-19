@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3498f2e-02a4-46a5-ad53-a497d78b88c3" name="Default Changelist" comment="" />
+    <list default="true" id="b3498f2e-02a4-46a5-ad53-a497d78b88c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex13.py" beforeDir="false" afterPath="$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex13.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,20 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex14.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <state relative-caret-position="85">
+              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -146,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex14">
+  <component name="RunManager" selected="Python.ex13">
     <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,8 +248,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex14" />
         <item itemvalue="Python.ex13" />
+        <item itemvalue="Python.ex14" />
         <item itemvalue="Python.ex12" />
         <item itemvalue="Python.ex11" />
         <item itemvalue="Python.ex10" />
@@ -279,12 +273,12 @@
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -410,14 +404,14 @@
     <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/excript/app-comerciais-kivy/exerciciosPraticos/exercicio1/ex13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        <state relative-caret-position="85">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
         </state>
       </provider>
     </entry>
