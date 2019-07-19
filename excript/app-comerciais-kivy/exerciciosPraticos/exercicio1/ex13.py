@@ -8,7 +8,7 @@ segundos=int(input("Digite os segundos:"))
 '''
 
 
-dias_em_segundos=(24*(60**2))
+dias_em_segundos=dias*(24*(60**2))
 
 hora_quebrada=hora_total.split(":")
 
