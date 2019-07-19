@@ -1,7 +1,6 @@
 altura=float(input("Digite a altura do retangulo: "))
 largura=float(input("Digite a largura do retangulo: "))
 
-
 area=altura*largura
 
-print("Ãrea do retangulo:", area)
+print("Área do retangulo:", area)

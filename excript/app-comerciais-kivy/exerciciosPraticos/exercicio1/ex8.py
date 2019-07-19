@@ -1,10 +1,10 @@
 import math
 
-nota1=float(input("Digite a 1Âª nota: "))
-nota2=float(input("Digite a 2Âª nota: "))
-nota3=float(input("Digite a 3Âª nota: "))
-nota4=float(input("Digite a 4Âª nota: "))
+nota1=float(input("Digite a 1ª nota: "))
+nota2=float(input("Digite a 2ª nota: "))
+nota3=float(input("Digite a 3ª nota: "))
+nota4=float(input("Digite a 4ª nota: "))
 
 media=(nota1+nota2+nota3+nota4)/4
 
-print("A mÃ©dia das notas Ã©:", media)
+print("A média das notas é:", media)

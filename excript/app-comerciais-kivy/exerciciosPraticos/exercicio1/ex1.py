@@ -1,3 +1,3 @@
-nome="Alex William GonÃ§alves"
+nome="Alex William Gonçalves"
 
 print(nome)

@@ -1,3 +1,3 @@
-numero=int(input("Digite um nÃºmero: "))
+numero=int(input("Digite um número: "))
 
-print("O nÃºmero digitado foi: ", numero)
+print("O número digitado foi: ", numero)
