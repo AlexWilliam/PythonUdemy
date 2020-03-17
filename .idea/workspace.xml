@@ -44,7 +44,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Python.aula77">
+  <component name="RunManager" selected="Python.aula85">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula71" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula80" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula71.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula80.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula73" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula81" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula73.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula81.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula74" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula82" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula74.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula82.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula75" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula84" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula75.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula84.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula77" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula85" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula77.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excript/app-comerciais-kivy/aulas/aula85.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,19 +172,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.aula71" />
-      <item itemvalue="Python.aula73" />
-      <item itemvalue="Python.aula74" />
-      <item itemvalue="Python.aula75" />
-      <item itemvalue="Python.aula77" />
+      <item itemvalue="Python.aula80" />
+      <item itemvalue="Python.aula81" />
+      <item itemvalue="Python.aula82" />
+      <item itemvalue="Python.aula84" />
+      <item itemvalue="Python.aula85" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aula77" />
-        <item itemvalue="Python.aula75" />
-        <item itemvalue="Python.aula74" />
-        <item itemvalue="Python.aula73" />
-        <item itemvalue="Python.aula71" />
+        <item itemvalue="Python.aula85" />
+        <item itemvalue="Python.aula84" />
+        <item itemvalue="Python.aula82" />
+        <item itemvalue="Python.aula81" />
+        <item itemvalue="Python.aula80" />
       </list>
     </recent_temporary>
   </component>
@@ -206,22 +206,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1583854572146" />
-    <state width="1921" height="316" key="GridCell.Tab.0.bottom" timestamp="1583948557850">
+    <state width="1921" height="316" key="GridCell.Tab.0.bottom" timestamp="1584461367674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1583948557850" />
-    <state width="1921" height="316" key="GridCell.Tab.0.center" timestamp="1583948557850">
+    <state width="1921" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1584461367674" />
+    <state width="1921" height="316" key="GridCell.Tab.0.center" timestamp="1584461367673">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="316" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1583948557850" />
-    <state width="1921" height="316" key="GridCell.Tab.0.left" timestamp="1583948557850">
+    <state width="1921" height="316" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1584461367673" />
+    <state width="1921" height="316" key="GridCell.Tab.0.left" timestamp="1584461367673">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="316" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1583948557850" />
-    <state width="1921" height="316" key="GridCell.Tab.0.right" timestamp="1583948557850">
+    <state width="1921" height="316" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1584461367673" />
+    <state width="1921" height="316" key="GridCell.Tab.0.right" timestamp="1584461367674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="316" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1583948557850" />
+    <state width="1921" height="316" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1584461367674" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
